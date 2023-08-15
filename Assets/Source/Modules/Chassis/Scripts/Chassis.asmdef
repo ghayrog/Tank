@@ -1,0 +1,16 @@
+{
+    "name": "Chassis",
+    "rootNamespace": "Chassis",
+    "references": [
+        "GUID:17762225473f31f40b57be9698b57aea"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

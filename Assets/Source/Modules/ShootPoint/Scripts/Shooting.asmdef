@@ -1,0 +1,17 @@
+{
+    "name": "Shooting",
+    "rootNamespace": "Shooting",
+    "references": [
+        "GUID:17762225473f31f40b57be9698b57aea",
+        "GUID:fc9ac7612d08ec3459e7afbd0642625d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
